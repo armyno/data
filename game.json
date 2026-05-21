@@ -123,7 +123,7 @@
 { "id": 126, "title": "Duck Life", "url": "https://htmlxm.github.io/h/duck-life/", "image": "https://htmlxm.github.io/thumb/duck-life.png" }, 
 { "id": 127, "title": "Dunkbrush", "url": "https://htmlxm.github.io/h4/dunkbrush/", "image": "https://htmlxm.github.io/thumb/dunkbrush.png" }, 
 { "id": 128, "title": "Dunkers", "url": "https://htmlxm.github.io/h4/dunkers/", "image": "https://htmlxm.github.io/thumb/dunkers.png" }, 
-{ "id": 129, "title": "Earn To Die", "url": "https://htmlxm.github.io/h8/earn-to-die/", "image": "https://htmlxm.github.io/thumb/earn-to-die.png" }, 
+
 { "id": 130, "title": "Eggy Car", "url": "https://htmlxm.github.io/h/eggy-car/", "image": "https://htmlxm.github.io/thumb/eggy-car.png" }, 
 { "id": 131, "title": "Elastic Man", "url": "https://htmlxm.github.io/h7/elastic-man/", "image": "https://htmlxm.github.io/thumb/elastic-man.png" }, 
 { "id": 132, "title": "Electron Dash", "url": "https://htmlxm.github.io/h7/electron-dash/", "image": "https://htmlxm.github.io/thumb/electron-dash.png" }, 
@@ -268,7 +268,7 @@
 { "id": 275, "title": "Penalty Shooters 2", "url": "https://htmlxm.github.io/h6/penalty-shooters-2/", "image": "https://htmlxm.github.io/thumb/penalty-shooters-2.png" }, 
 { "id": 276, "title": "Perfect Peel", "url": "https://htmlxm.github.io/h6/perfect-peel/", "image": "https://htmlxm.github.io/thumb/perfect-peel.png" }, 
 { "id": 277, "title": "Ping Pong Html5", "url": "https://htmlxm.github.io/h6/ping-pong-html5/", "image": "https://htmlxm.github.io/thumb/ping-pong-html5.png" }, 
-{ "id": 278, "title": "Pixel Gun Survival", "url": "https://htmlxm.github.io/h9/pixel-gun-survival/", "image": "https://htmlxm.github.io/thumb/pixel-gun-survival.png" }, 
+
 { "id": 279, "title": "Pixwars 2", "url": "https://htmlxm.github.io/h6/pixwars-2/", "image": "https://htmlxm.github.io/thumb/pixwars-2.png" }, 
 { "id": 280, "title": "Plactions", "url": "https://htmlxm.github.io/h6/plactions/", "image": "https://htmlxm.github.io/thumb/plactions.png" }, 
 { "id": 281, "title": "Pool Club", "url": "https://htmlxm.github.io/h6/pool-club/", "image": "https://htmlxm.github.io/thumb/pool-club.png" }, 
@@ -296,8 +296,7 @@
 { "id": 303, "title": "Rolling Sky", "url": "https://htmlxm.github.io/h6/rolling-sky/", "image": "https://htmlxm.github.io/thumb/rolling-sky.png" }, 
 { "id": 304, "title": "Rolly Vortex", "url": "https://htmlxm.github.io/h9/rolly-vortex/", "image": "https://htmlxm.github.io/thumb/rolly-vortex.png" }, 
 { "id": 305, "title": "Roly Poly Monsters", "url": "https://htmlxm.github.io/h6/roly-poly-monsters/", "image": "https://htmlxm.github.io/thumb/roly-poly-monsters.png" }, 
-{ "id": 306, "title": "Rooftop Snipers 2", "url": "https://htmlxm.github.io/h6/rooftop-snipers-2/", "image": "https://htmlxm.github.io/thumb/rooftop-snipers-2.png" }, 
-{ "id": 307, "title": "Rooftop Snipers", "url": "https://htmlxm.github.io/h/rooftop-snipers/", "image": "https://htmlxm.github.io/thumb/rooftop-snipers.png" }, 
+
 { "id": 308, "title": "Rowdy City Wrestling", "url": "https://htmlxm.github.io/h6/rowdy-city-wrestling/", "image": "https://htmlxm.github.io/thumb/rowdy-city-wrestling.png" }, 
 { "id": 309, "title": "Rowdy Wrestling", "url": "https://htmlxm.github.io/h6/rowdy-wrestling/", "image": "https://htmlxm.github.io/thumb/rowdy-wrestling.png" }, 
 { "id": 310, "title": "Run 3 Editor", "url": "https://htmlxm.github.io/h9/run-3-editor/", "image": "https://htmlxm.github.io/thumb/run-3-editor.png" }, 
@@ -320,7 +319,7 @@
 { "id": 327, "title": "Slope Tunnel", "url": "https://htmlxm.github.io/h88/slope-tunnel/", "image": "https://htmlxm.github.io/thumb/slope-tunnel.png" }, 
 { "id": 328, "title": "Slope", "url": "https://htmlxm.github.io/h/slope/", "image": "https://htmlxm.github.io/thumb/slope.png" }, 
 { "id": 329, "title": "Smash Karts", "url": "https://htmlxm.github.io/h/smash-karts/", "image": "https://htmlxm.github.io/thumb/smash-karts.png" }, 
-{ "id": 330, "title": "Sniper Gun Shooting", "url": "https://htmlxm.github.io/h7/sniper-gun-shooting/", "image": "https://htmlxm.github.io/thumb/sniper-gun-shooting.png" }, 
+
 { "id": 331, "title": "Snow Rider 3D", "url": "https://htmlxm.github.io/h8/snow-rider-3d/", "image": "https://htmlxm.github.io/thumb/snow-rider-3d.png" }, 
 { "id": 332, "title": "Soccar", "url": "https://htmlxm.github.io/h6/soccar/", "image": "https://htmlxm.github.io/thumb/soccar.png" }, 
 { "id": 333, "title": "Soccer Random", "url": "https://htmlxm.github.io/h8/soccer-random/", "image": "https://htmlxm.github.io/thumb/soccer-random.png" }, 
